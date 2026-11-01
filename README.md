@@ -1,150 +1,85 @@
-<!-- ================= PROFILE HEADER ================= --><div align="center">👋 Hey, I'm Bedardi!
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=BEDARDI&fontSize=75&fontColor=ffffff&stroke=7C3AED&strokeWidth=2&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=16&descAlignY=70&color=0:09090b,50:17102b,100:09090b" width="100%"/><br/>5+ Years of Experience · Software Engineering · Digital Innovation
 
-🌍 Full Stack Developer | Software Architect | AI Enthusiast
+Building products, engineering solutions and turning complex ideas into working software.
 
-5+ Years of Experience | Global Developer | Building Digital Experiences
+<br/><a href="https://mistahub.in"><img src="https://img.shields.io/badge/PORTFOLIO-mistahub.in-7C3AED?style=for-the-badge&labelColor=09090b"/></a>
+<a href="https://github.com/Bedardi"><img src="https://img.shields.io/badge/GITHUB-Bedardi-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=09090b"/></a>
 
-I build software, engineer solutions, automate workflows, and turn ideas into reality.
+<img src="https://komarev.com/ghpvc/?username=Bedardi&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/></div><br/>👨‍💻 About Me
 
-From web applications and payment systems to automation software and AI-powered solutions — I love building things that make a difference.
+I'm a Full Stack Developer with 5+ years of experience creating software, applications, web platforms and digital products.
 
-<br>""Portfolio" (https://img.shields.io/badge/Website-mistahub.in-black?style=for-the-badge&logo=googlechrome&logoColor=white)" (https://mistahub.in)
-""GitHub" (https://img.shields.io/badge/GitHub-Bedardi-181717?style=for-the-badge&logo=github)" (https://github.com/Bedardi)
-""Profile Views" (https://komarev.com/ghpvc/?username=Bedardi&style=for-the-badge&color=blueviolet)" (https://github.com/Bedardi)
+I enjoy working across technologies, experimenting with AI-powered development and building complete solutions — from the first idea to production.
 
-</div>---
+- 🌍 Building for a global audience.
+- ⚡ Full Stack Development & Software Engineering.
+- 🤖 AI-assisted development and intelligent automation.
+- 📱 Android development with Sketchware Pro.
+- 🏗️ Web applications, dashboards and backend systems.
+- 🔥 Constantly building, experimenting and learning.
 
-🚀 About Me
+<br/>🚀 What I'm Building
 
-Name: Bedardi
-Role: Full Stack Developer
-Experience: 5+ Years
-Reach: Worldwide 🌍
-Specialization:
-  - Full Stack Development
-  - AI-Assisted Development
-  - Software Architecture
-  - Web Applications
-  - Payment Gateway Systems
-  - Automation & Dashboard Development
-  - Mobile Application Development
+<table>
+<tr>
+<td width="50%" valign="top"><h3>🌐 MistaHub</h3>A digital ecosystem for software, services and innovative products.
 
-Development Style:
-  - AI-Powered Workflows
-  - Sketchware Pro
-  - Rapid Prototyping
-  - Problem Solving
-  - Building Real-World Products
+<a href="https://mistahub.in">
+<img src="https://img.shields.io/badge/EXPLORE%20PLATFORM-7C3AED?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a></td>
+<td width="50%" valign="top"><h3>💳 MistaHub Payments</h3>Payment gateway and payment infrastructure for digital transactions.
 
-Mindset: "If it can be imagined, it can be built."
+<a href="https://pay.mistahub.in">
+<img src="https://img.shields.io/badge/EXPLORE%20PAYMENTS-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3>🖨️ AutoPrinter</h3>Automated printing software with management dashboards, integrated workflows and automation.
 
-- 💻 5+ years of experience in software development.
-- 🌍 Building digital products for a global audience.
-- 🤖 Passionate about AI and AI-assisted development.
-- 📱 Experienced with Sketchware Pro and Android development.
-- ⚡ Working across multiple programming languages and technologies.
-- 🏗️ Building complete systems, from frontend to backend.
-- 🔐 Interested in payment infrastructure, automation and scalable systems.
-- 🚀 Always exploring new technologies and building something new.
+<a href="https://autoprint.mistahub.in">
+<img src="https://img.shields.io/badge/EXPLORE%20AUTOPRINTER-16A34A?style=flat-square&logo=googlecloud&logoColor=white"/>
+</a></td>
+<td width="50%" valign="top"><h3>⚙️ Other Projects</h3>Various software products, web applications, Android apps, automation systems and AI-powered experiments.
 
----
+More coming soon.
 
-🏢 My Digital Ecosystem
+</td>
+</tr>
+</table><br/>🛠️ Tech Stack
 
-I don't just write code. I build and manage complete digital products.
+<div align="center">Languages
 
-🌐 MistaHub
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin,php,cpp,rust,go,dart,html,css&perline=6" /><br/><br/>
 
-""Website" (https://img.shields.io/badge/Visit-mistahub.in-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)" (https://mistahub.in)
+Frameworks & Development
 
-My digital ecosystem and central platform for various software products and services.
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vue,angular,laravel,flutter,androidstudio&perline=6" /><br/><br/>
 
-💳 MistaHub Payment Gateway
+Database & Infrastructure
 
-""Payment Gateway" (https://img.shields.io/badge/Explore-pay.mistahub.in-16A34A?style=flat-square&logo=stripe&logoColor=white)" (https://pay.mistahub.in)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,redis,docker,linux,git,github&perline=6" /><br/><br/>
 
-Payment gateway platform focused on digital payment processing and payment-related infrastructure.
+Development Environment
 
-🖨️ AutoPrinter
+<img src="https://skillicons.dev/icons?i=vscode,idea,gradle,ubuntu&perline=6" /><br/><br/>
 
-""AutoPrinter" (https://img.shields.io/badge/Explore-autoprint.mistahub.in-7C3AED?style=flat-square&logo=googlecloud&logoColor=white)" (https://autoprint.mistahub.in)
+AI Development · Sketchware Pro · Automation · API Integration · Software Architecture
 
-A complete AutoPrinter software ecosystem featuring:
+</div><br/>📊 GitHub Overview
 
-- Automated printing solutions.
-- Centralized management dashboard.
-- Software and system integration.
-- Automation workflows.
-- Dashboard-based controls and management.
+<div align="center"><a href="https://github.com/Bedardi">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Bedardi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=A78BFA&icon_color=7C3AED&text_color=E4E4E7&count_private=true"/>
+</a>
+<a href="https://github.com/Bedardi">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedardi&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=A78BFA&text_color=E4E4E7&langs_count=8"/>
+</a><br/><br/>
 
-More projects, tools, and innovations are continuously in development.
+<img width="75%" src="https://streak-stats.demolab.com?user=Bedardi&theme=tokyonight&hide_border=true&background=09090b&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA"/></div><br/>📈 Contribution Graph
 
----
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Bedardi&bg_color=09090b&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/></div><br/><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:31205B,100:7C3AED&height=120&section=footer"/>Building ideas into reality.
 
-⚒️ Technologies & Tools
+Think. Build. Automate. Innovate.
 
-I work across a wide range of programming languages, frameworks, platforms, and development environments.
-
-💻 Programming Languages
-
-<div align="center"><img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin,php,cpp,rust,go,dart,html,css&perline=6" /></div>🚀 Frameworks & Runtime
-
-<div align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vue,angular,laravel,flutter&perline=6" /></div>🗄️ Database & Backend
-
-<div align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,redis&perline=6" /></div>🛠️ Development Tools
-
-<div align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode,androidstudio,gradle&perline=6" /></div>🤖 AI & Development Workflow
-
-<div align="center"><img src="https://skillicons.dev/icons?i=openai,githubactions&perline=6" /></div>- AI-assisted software development.
-- Sketchware Pro.
-- AI-powered coding workflows.
-- Rapid application development.
-- Automation and system integration.
-
----
-
-📊 GitHub Statistics
-
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bedardi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bedardi&theme=tokyonight&hide_border=true" /><br><br>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedardi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" /></div>---
-
-🏆 GitHub Achievements
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Bedardi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" width="100%" /></div>---
-
-📈 Contribution Activity
-
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Bedardi&theme=tokyo-night&hide_border=true" width="100%" /></div>---
-
-🎯 My Philosophy
-
-<div align="center">"Think Beyond Limits. Build Beyond Imagination."
-
-I believe technology has no boundaries.
-
-I don't limit myself to a programming language, framework, or development environment.
-
-I focus on solving problems, building useful products, and continuously evolving with technology.
-
-Code. Create. Automate. Innovate. Repeat.
-
-</div>---
-
-🤝 Let's Connect
-
-<div align="center">🌍 Website: "mistahub.in" (https://mistahub.in)
-
-💻 GitHub: "@Bedardi" (https://github.com/Bedardi)
-
-🚀 Building the future, one project at a time.
-
-<br><img src="https://img.shields.io/badge/Status-Always%20Building-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mindset-Always%20Learning-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Reach-Worldwide-blue?style=for-the-badge" /></div>---
-
-<div align="center">⭐ Thanks for visiting my profile!
-
-If you find something interesting, feel free to explore my repositories.
+<a href="https://mistahub.in">MistaHub</a>  ·  <a href="https://github.com/Bedardi">GitHub</a>
 
 </div>
